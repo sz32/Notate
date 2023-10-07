@@ -15,3 +15,6 @@
 - Basic Authentication (Pin, biometric, default)
 - we can have something called workspace for non personal notes especially for meetings or some professional stuffs.
 - We can set the default workspace so next time when the user can directly see whatever the workspace set by default.
+
+## Useful links
+https://dribbble.com/shots/20654814-Notes-Mobile-IOS-App
