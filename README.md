@@ -1,6 +1,6 @@
 # chatnote
 
-## Chat Note Basic Requirement
+## Notate Basic Requirement
 - Important text notes in a chatting way.
 - App opens and show list of labels.
 - Add button to create a new labled note.
