@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Chat Note"
+rootProject.name = "Notate"
 include(":app")
