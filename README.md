@@ -13,3 +13,5 @@
 - Notes Types: text, checklist, voice, images and docs
 - Notes Templates like (Minutes of meeting, todo list)
 - Basic Authentication (Pin, biometric, default)
+- we can have something called workspace for non personal notes especially for meetings or some professional stuffs.
+- We can set the default workspace so next time when the user can directly see whatever the workspace set by default.
